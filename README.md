@@ -1,6 +1,7 @@
 # 💕 Presado & Presada - Site de Aniversário de Namoro
 
-![Screenshot](https://placehold.co/1200x600/ff6b81/ffffff?text=Presado+%26+Presada+-+3+Anos) <!-- Substitua por uma captura real -->
+<img width="3669" height="5801" alt="image" src="https://github.com/user-attachments/assets/75b1f07b-a720-4523-bf94-978c5fc202ed" />
+
 
 **Um site romântico e interativo para celebrar 3 anos de amor!** 💖
 
